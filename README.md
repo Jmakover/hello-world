@@ -1,4 +1,4 @@
 # hello-world
 first repository
 
-Hi  am a new programmer learninh how to use GITHUB.
+Hi  am a new programmer learning how to use GITHUB.
